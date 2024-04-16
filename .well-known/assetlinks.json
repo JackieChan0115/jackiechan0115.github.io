@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.bytedance.snail",
+               "sha256_cert_fingerprints": ["D7:81:1E:C4:16:6F:EA:6C:C7:20:BA:66:69:9D:C8:4B:58:4A:C9:E6:98:66:13:A7:6D:4E:43:D8:CB:E3:2B:27"] }
+}]
